@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a0caadf-4c61-49a5-976c-aaf4de63b673/deploy-status)](https://app.netlify.com/sites/happy-bell-9ca085/deploys)
 # test
 
 ## Project setup
